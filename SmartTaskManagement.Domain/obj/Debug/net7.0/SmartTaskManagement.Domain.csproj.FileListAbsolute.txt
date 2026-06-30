@@ -1,0 +1,12 @@
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Domain/bin/Debug/net7.0/SmartTaskManagement.Domain.deps.json
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Domain/bin/Debug/net7.0/SmartTaskManagement.Domain.dll
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Domain/bin/Debug/net7.0/SmartTaskManagement.Domain.pdb
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Domain/obj/Debug/net7.0/SmartTaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Domain/obj/Debug/net7.0/SmartTaskManagement.Domain.AssemblyInfoInputs.cache
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Domain/obj/Debug/net7.0/SmartTaskManagement.Domain.AssemblyInfo.cs
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Domain/obj/Debug/net7.0/SmartTaskManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Domain/obj/Debug/net7.0/SmartTaskManagement.Domain.dll
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Domain/obj/Debug/net7.0/refint/SmartTaskManagement.Domain.dll
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Domain/obj/Debug/net7.0/SmartTaskManagement.Domain.pdb
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Domain/obj/Debug/net7.0/ref/SmartTaskManagement.Domain.dll
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Domain/obj/Debug/net7.0/SmartTaskManagement.Domain.csproj.AssemblyReference.cache

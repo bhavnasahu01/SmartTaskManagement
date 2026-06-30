@@ -1,0 +1,15 @@
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/bin/Debug/net7.0/SmartTaskManagement.Application.deps.json
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/bin/Debug/net7.0/SmartTaskManagement.Application.dll
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/bin/Debug/net7.0/SmartTaskManagement.Application.pdb
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/bin/Debug/net7.0/SmartTaskManagement.Domain.dll
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/bin/Debug/net7.0/SmartTaskManagement.Domain.pdb
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/obj/Debug/net7.0/SmartTaskManagement.Application.csproj.AssemblyReference.cache
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/obj/Debug/net7.0/SmartTaskManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/obj/Debug/net7.0/SmartTaskManagement.Application.AssemblyInfoInputs.cache
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/obj/Debug/net7.0/SmartTaskManagement.Application.AssemblyInfo.cs
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/obj/Debug/net7.0/SmartTaskManagement.Application.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/obj/Debug/net7.0/SmartTaskManagement.Application.dll
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/obj/Debug/net7.0/refint/SmartTaskManagement.Application.dll
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/obj/Debug/net7.0/SmartTaskManagement.Application.pdb
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/obj/Debug/net7.0/ref/SmartTaskManagement.Application.dll
+/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/obj/Debug/net7.0/SmartTaskManagement.Application.csproj.CopyComplete

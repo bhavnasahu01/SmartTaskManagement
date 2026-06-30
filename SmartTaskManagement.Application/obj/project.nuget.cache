@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rFy0KWUorRXN8R3/GADOnCsU48ZhWO41Svr4gOSjS0Mbz/kFl4p2JWcpprpaOvZVINFV1KMouZOiYednmgLMxA==",
+  "success": true,
+  "projectFilePath": "/Users/apple/Desktop/DotNet/SmartTaskManagement/SmartTaskManagement.Application/SmartTaskManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/bcrypt.net-next/4.2.0/bcrypt.net-next.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
